@@ -7,6 +7,8 @@ There are two agents:
 
 This code is heavily inspired from the [quick start](https://microsoft.github.io/autogen/0.4.0.dev2//user-guide/core-user-guide/quickstart.html).
 
+Demo: https://www.youtube.com/watch?v=ZbrF3raMwHA
+
 ## Run it yourself!
 To run this yourself, you'll need an OpenAI API key. One invocation of the program should cost less than 1c.
 
