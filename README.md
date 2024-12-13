@@ -5,6 +5,8 @@ There are two agents:
 1. Assistant: Takes the user prompt, writes the script, and interprets any errors in code execution.
 2. Executor: Executes scripts in a docker container, installing packages if necessary.
 
+<video src='https://youtu.be/ZbrF3raMwHA' width=180 />
+
 This code is heavily inspired from the [quick start](https://microsoft.github.io/autogen/0.4.0.dev2//user-guide/core-user-guide/quickstart.html).
 
 Demo: https://www.youtube.com/watch?v=ZbrF3raMwHA
